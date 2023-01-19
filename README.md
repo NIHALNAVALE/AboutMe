@@ -14,22 +14,23 @@ B.Eng - Electrical and Electronic Engineering at Siddaganga Institute of Technol
 ## :electron: Projects
 Here are a few key projects that I have worked on in my graduate courses.
 
-* ### [Visual Odometry](https://github.com/NIHALNAVALE/Visual-Odometry)
+* #### [Visual Odometry](https://github.com/NIHALNAVALE/Visual-Odometry)
 
-* ### [Social Robot Interaction](https://github.com/NIHALNAVALE/social_robot_navigation)
+* #### [Social Robot Interaction](https://github.com/NIHALNAVALE/social_robot_navigation)
 
-* ### [Human-Aware Robot Navigation](https://github.com/NIHALNAVALE/human_aware_robot_navigation)
+* #### [Human-Aware Robot Navigation](https://github.com/NIHALNAVALE/human_aware_robot_navigation)
 
 ## Programming Languages
 
-![Alt text](./CPP.svg)
+<!-- ![Alt text](./CPP.svg)
 <img src="./CPP.svg"> 
 ![Alt text](./Python-Light.svg)
 <img src="./Python-Light.svg"> 
-<img src="./ROS-Light.svg">
+<img src="./ROS-Light.svg"> -->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
 ## Tools
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,linux,matlab,pytorch,tensorflow,ros,unity,stackoverflow)](https://skilli.dev)
 ## Connect with me
 
 📧: [Email](nsuneelnavale@wpi.edu) nsuneelnavale@wpi.edu
