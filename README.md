@@ -22,7 +22,6 @@ Here are a few key projects that I have worked on in my graduate courses.
 
 ## Skills
 
-![Alt text](./CPP.svg)
 <img src="./CPP.svg">
 
 
