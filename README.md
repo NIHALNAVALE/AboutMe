@@ -22,7 +22,11 @@ Here are a few key projects that I have worked on in my graduate courses.
 
 ## Programming Languages
 
-<img src="./CPP.svg"> <img src="./Python-Light.svg"> <img src="./ROS-Light.svg">
+![Alt text](./CPP.svg)
+<img src="./CPP.svg"> 
+![Alt text](./Python-Light.svg)
+<img src="./Python-Light.svg"> 
+<img src="./ROS-Light.svg">
 
 ## Tools
 
