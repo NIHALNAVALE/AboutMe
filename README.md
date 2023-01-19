@@ -27,10 +27,10 @@ Here are a few key projects that I have worked on in my graduate courses.
 ![Alt text](./Python-Light.svg)
 <img src="./Python-Light.svg"> 
 <img src="./ROS-Light.svg"> -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](www.nihalnavale.com)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,linux,matlab,pytorch,tensorflow,ros,unity,stackoverflow)](https://skilli.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,linux,matlab,pytorch,tensorflow,ros,unity,stackoverflow)](www.nihalnavale.com)
 ## Connect with me
 
 📧: [Email](nsuneelnavale@wpi.edu) nsuneelnavale@wpi.edu
