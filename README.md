@@ -20,10 +20,11 @@ Here are a few key projects that I have worked on in my graduate courses.
 
 * ### [Human-Aware Robot Navigation](https://github.com/NIHALNAVALE/human_aware_robot_navigation)
 
-## Skills
+## Programming Languages
 
-<img src="./CPP.svg">
+<img src="./CPP.svg"> <img src="./Python-Light.svg"> <img src="./ROS-Light.svg">
 
+## Tools
 
 ## Connect with me
 
