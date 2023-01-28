@@ -1,6 +1,6 @@
 # 🤖  Welcome to my GitHub page 
 
-My name is Nihal, and I am an aspiring Roboticist. My main interests are in Computer Vision, Deep Learning, and Motion Planning.
+My name is Nihal, and I am an aspiring Roboticist. My main interests are in Perception, Deep Learning, and Motion Planning.
 
 I am also an avid Soccer fan and player.
 
