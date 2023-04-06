@@ -20,6 +20,8 @@ Here are a few key projects that I have worked on in my graduate courses.
 
 * #### [Human-Aware Robot Navigation](https://github.com/NIHALNAVALE/human_aware_robot_navigation)
 
+* #### [Deep-Learning Driven Human Following Robot with Obstacle Avoidance](https://github.com/NIHALNAVALE/CapstoneProject)
+
 ## Programming Languages
 
 <!-- ![Alt text](./CPP.svg)
