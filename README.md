@@ -22,6 +22,8 @@ Here are a few key projects that I have worked on in my graduate courses.
 
 * #### [Deep-Learning Driven Human Following Robot with Obstacle Avoidance](https://github.com/NIHALNAVALE/CapstoneProject)
 
+* #### [Gait Analysis of Spot and Anymal-C Quadrupeds](https://github.com/NIHALNAVALE/Gait-Analysis-of-Quadrupeds)
+
 ## Programming Languages
 
 <!-- ![Alt text](./CPP.svg)
