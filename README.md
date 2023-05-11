@@ -20,6 +20,8 @@ Here are a few key projects that I have worked on in my graduate courses.
 
 * #### [Human-Aware Robot Navigation](https://github.com/NIHALNAVALE/human_aware_robot_navigation)
 
+* #### [Transformers and LSTM for Trajectory Prediction](https://github.com/NIHALNAVALE/Trajectory-Predictions)
+
 * #### [Deep Learning - Driven Human Following Robot: Detection, Tracking and Navigation](https://github.com/NIHALNAVALE/CapstoneProject)
 
 * #### [Gait Analysis of Spot and Anymal-C Quadrupeds](https://github.com/NIHALNAVALE/Gait-Analysis-of-Quadrupeds)
