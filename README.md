@@ -4,7 +4,7 @@ My name is Nihal, and I am an aspiring Roboticist. My main interests are in Perc
 
 I am also an avid Soccer fan and player.
 
-You can also check out my [portfolio](www.nihalnavale.com) to see some really cool demos of my projects.
+You can also check out my [portfolio](https://www.nihalnavale.com/) to see some really cool demos of my projects.
 ## 🎓 Education
 
 M.Sc - Mechatronics, Robotics, and Automation Engineering at Worcester Polytechnic Institute (WPI), USA
